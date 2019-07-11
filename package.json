@@ -1,12 +1,12 @@
 {
-  "name": "friend-management",
+  "name": "friendmanagementapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "Everything about friend management.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Jack",
+  "author": "jitender",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.0",
@@ -15,5 +15,17 @@
     "mongodb": "^2.2.33",
     "swagger-ui-express": "^2.0.8",
     "validator": "^9.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansam2026/FrndManagementAPI.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/ansam2026/FrndManagementAPI/issues"
+  },
+  "homepage": "https://github.com/ansam2026/FrndManagementAPI#readme"
 }
